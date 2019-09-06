@@ -1,0 +1,50 @@
+{
+    "hotGroup":[
+        {
+        "img": "https://img1.doubanio.com/view/group/sqxs/public/cb3ec94cffc1599.jpg",
+        "title": "b站讨论小组",
+        "desc": "交流b站上好看、好玩的视频，交流观看b站的感受，互通b站的各类资讯，做一个up主和b站观众快乐交流的大本营(・ω・)ノ"
+        },
+        {
+            "img": "https://img1.doubanio.com/view/group/sqxs/public/0a802ddfeb349c8.jpg",
+            "title": "乐观心态研习社",
+            "desc": "丧丧的事太多，还是多给自己一些正向反馈吧！"
+        },
+        {
+            "img": "https://img3.doubanio.com/view/group/sqxs/public/8e8d57fbe096f92.jpg",
+            "title": "职场体验讨论小组",
+            "desc": "欢迎在这里写下关于你现在/以前工作经历的一切。"
+        }
+    ],
+    "lifeGroup":[
+        {
+            "img": "https://img1.doubanio.com/view/group/sqxs/public/b30c46178344757.jpg",
+            "title": "下厨房",
+            "desc": "本组是聚集爱好烹饪豆友的豆瓣官方讨论小组。厨房是个..."
+        }, {
+            "img": "https://img3.doubanio.com/view/group/sqxs/public/35759cdfa493203.jpg",
+            "title": "很好喝研究所",
+            "desc": "不爱白开水，冲冲泡泡喝健康饮品..."
+        }, {
+            "img": "https://img3.doubanio.com/view/group/sqxs/public/85c2cd9d9d6b16f.jpg",
+            "title": "生活在农村…隐士",
+            "desc": "不管是在农村出生  在农村长大  放假在农村度过  还是..."
+        }
+    ],
+    "findGroup": [
+        {
+        "img": "https://img1.doubanio.com/view/group/sqxs/public/2a9490903e3cbe8.jpg",
+        "title": "翻译质检书",
+        "desc": "通过与原文逐词逐句的比照，检查现行译本的翻译质量。..."
+    }, 
+    {
+        "img": "https://img1.doubanio.com/view/group/sqxs/public/f29ecc2d83892a8.jpg",
+        "title": "女性主义文学评论与创作",
+        "desc": "不鼓励两性对立，而是寻求女性通过真诚的写作来发掘自己，表达自己，并相互激励，进而让世界听到我们的声音。"
+    }, 
+    {
+        "img": "https://img1.doubanio.com/view/group/sqxs/public/fedf6c3ca9f7d6a.jpg",
+        "title": "APP更新控",
+        "desc": "欢迎大家对每个APP更新时的吐槽，以及可能会有建议。"
+    }]
+}

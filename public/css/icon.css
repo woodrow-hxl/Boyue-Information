@@ -1,0 +1,80 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?892nn8');
+  src:  url('fonts/icomoon.eot?892nn8#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?892nn8') format('truetype'),
+    url('fonts/icomoon.woff?892nn8') format('woff'),
+    url('fonts/icomoon.svg?892nn8#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  
+  /* Enable Ligatures ================ */
+  letter-spacing: 0;
+  -webkit-font-feature-settings: "liga";
+  -moz-font-feature-settings: "liga=1";
+  -moz-font-feature-settings: "liga";
+  -ms-font-feature-settings: "liga" 1;
+  font-feature-settings: "liga";
+  -webkit-font-variant-ligatures: discretionary-ligatures;
+  font-variant-ligatures: discretionary-ligatures;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-search:before {
+  content: "\e900";
+  color: #979797;
+  font-size: 24px;
+}
+.icon-search2 .path1:before {
+  content: "\e901";
+  color: rgb(63, 166, 173);
+  z-index: 2000;
+}
+.icon-search2 .path2:before {
+  content: "\e902";
+  margin-left: -1em;
+  color: rgb(220, 69, 105);
+}
+.icon-star:before {
+  content: "\e903";
+  color:#ffac2d;
+}
+.icon-star-full:before {
+  content: "\e904";
+  color:#ffac2d;
+}
+.icon-book:before {
+  content: "\e905";
+}
+.icon-read-want:before {
+  content: "\e906";
+  color:#ffac2d;
+}
+.icon-read-wanted:before {
+  content: "\e907";
+  color:#ffac2d;
+}
+.icon-icon-link:before {
+  content: "\e908";
+  color: #4d4d4d;
+}
+.icon-radio-checked:before {
+  content: "\ea54";
+  color:#ffac2d;
+  font-size: 12px;
+}
